@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseOtpFinal</string>
+    <string name="we_will_send_you_an_one_time_otp_on_this_given_mobile_number">We Will Send You An One Time Otp On This Given Mobile Number</string>
+</resources>
